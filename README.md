@@ -1,4 +1,4 @@
-# coherent-photon-source
+# photon-source
 
 photon-source.ipynb is a python notebook to engineer and design a coherent photon source according to the theory presented in the paper "On-chip microwave coherent source with in-situ control of the photon number distribution". The main function of the notebook is to ease the process of identifying the optimal design parameters for a coherent photon source, ensuring it meets user requirements for the number of reservoirs in output and the tunability range of the photon number distribution.
 
