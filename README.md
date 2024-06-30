@@ -8,5 +8,5 @@ if you find bugs in the code or have any suggestion to improve the notebook, fee
 
 # citing
 
-kudos to the lovely people that use the notebook and remember to cite the [related article](https://arxiv.org/abs/2406.10597)  
+if you use the notebook for your research remember to cite the [related article](https://arxiv.org/abs/2406.10597)  
 
